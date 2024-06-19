@@ -46,3 +46,5 @@ python main.py [url] [driver]
 Jaden@JadenLabs ~/Coding/mee6-levels-please
 $ python main.py https://mee6.xyz/en/leaderboard/755056745717432350 edge -v
 ```
+
+After running the script, check the  `/output` folder for the `.json` file.
